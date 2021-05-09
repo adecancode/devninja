@@ -7,7 +7,7 @@ export default function Home() {
       <div className="hidden sm:hidden lg:flex xl:flex 2xl:flex flex items-center flex-row">
         <Link href="/">
           <Image 
-            src="/svg/me.svg"
+            src="/me.png"
             width="100"
             height="100"
             style=""
@@ -41,7 +41,7 @@ export default function Home() {
         <div className="flex justify-center">
           <Link href="/">
             <Image 
-              src="/svg/me.svg"
+              src="/me.png"
               width="100"
               height="100"
               style=""

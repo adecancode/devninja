@@ -141,7 +141,7 @@ export default function Home() {
             <div className="flex items-center flex-row">
               <p className="text-2xl font-bold text-white italic tracking-tighter">Snax</p>
               <div className="flex align-center flex-row ml-auto">
-                <a href="https://snax.vercel.app/" className="text-gray-600 hover:text-white font-light tracking-tighter text-lg mr-4">Live</a>
+                <a href="https://snax.netlify.app/" className="text-gray-600 hover:text-white font-light tracking-tighter text-lg mr-4">Live</a>
                 <a href="https://github.com/adecancode/snax" className="text-gray-600 hover:text-white font-light tracking-tighter text-lg">Repo</a>
               </div>
             </div>
